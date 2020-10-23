@@ -106,15 +106,16 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 400px;
+    width: 450px;
   }
   .game-display-container {
     width: 100%;
+    height: 100%; 
   }
 
   .placeholders {
     position: absolute;
-    top: 100px;
+    top: 150px;
     font-size: 200%;
     width: 100%;
     letter-spacing: 10px;
